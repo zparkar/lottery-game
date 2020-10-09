@@ -3,7 +3,7 @@ Lottery game based on UK National Lottery - Lotto
 
 The following is a simulation of the UK National lottery- Lotto game.
 
-To run the game, run the "lottery_game_play" file in in a terminal window.
+To run the game, run the "lottery_game_play" file in in a terminal window with teh "lottery_game" file in the same directory.
 
 There are two ways to play the game. You will be prompted whether you want to generate random tickets, or generate your own tickets. You will also be prompted how many tickets you want to generate.
 
