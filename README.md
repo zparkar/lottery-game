@@ -10,9 +10,13 @@ There are two ways to play the game. You will be prompted whether you want to ge
 The prize breakdown is as follows:
 
 2 Matches: £10
+
 3 Matches: £100
+
 4 matches: £1000
+
 5 matches: £10000
+
 6 matches (Jackpot): £100000
 
 
